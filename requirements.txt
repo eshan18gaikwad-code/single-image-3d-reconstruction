@@ -1,0 +1,15 @@
+# Core experimentation stack
+numpy
+Pillow
+torch
+torchvision
+diffusers
+transformers
+accelerate
+rembg
+onnxruntime
+open3d
+trimesh
+gradio
+kornia
+pyvista

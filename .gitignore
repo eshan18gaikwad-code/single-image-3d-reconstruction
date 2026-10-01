@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights / caches
+*.ckpt
+*.pth
+*.pt
+*.bin
+*.safetensors
+hf_cache/
+.cache/
+
+# Generated outputs
+outputs/
+results/generated/
+*.glb
+*.obj
+*.ply
+*.mp4
+
+# Local/Kaggle paths
+kaggle/
